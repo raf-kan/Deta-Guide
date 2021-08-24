@@ -102,6 +102,14 @@ Simply add this key to the header of every request you make to your Micro.
 
 
 ---
+
+## To view all your Microservices:
+
+Simply visit https://web.deta.sh
+
+There You can see the list of services, a neat feature called "Visor", and details about your service. You can also change the domain, clone the service, or simply scrap it all.
+
+---
 # That should be it!
 
 If help needed, always refer to the [doc](https://docs.deta.sh/docs/home/) as these are the only few commands I have used or know of.
